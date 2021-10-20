@@ -9,4 +9,4 @@ I have kept MIT provided notes and assignment as per the course structure, and I
   - [2. Models of computation, document distance](/Unit%201%20-%20Introduction/2.%20Models%20of%20computation%2C%20document%20distance)
 
 
-[Assignments](/Assignments)
+## [Assignments](/Assignments)
